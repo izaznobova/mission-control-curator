@@ -290,7 +290,8 @@
     "slug": "social-networks",
     "description": "projects providing social networking platforms and tools"
   },
-"name": "Artificial Intelligence",
+ { 
+    "name": "Artificial Intelligence",
     "slug": "artificial-intelligence",
     "description": "the property of intelligent systems to perform creative functions, which are usually considered the prerogative of a person; science and technology of creating intelligent machines, especially intelligent computer programs",
     "subcategories": [
